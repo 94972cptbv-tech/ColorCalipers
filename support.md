@@ -34,6 +34,7 @@ Saved palettes are stored locally on your device. If you delete the app, locally
 Paint matches and digital color previews are approximate. Color appearance can vary by display, lighting, sheen, paint base, material, and surface. Always verify final paint choices with a physical manufacturer chip or paint store sample.
 
 Color Calipers does not generate paint-store mixing formulas or tint percentages. Paint stores create formulas using their own brand, base paint, tint system, and colorant machines.
+Manufacturer names and paint color names are used for descriptive reference only. Color Calipers is not affiliated with, endorsed by, or sponsored by any paint manufacturer. Paint matches are approximate and should be verified with a physical manufacturer chip or paint store sample.
 
 ### App Feedback
 
